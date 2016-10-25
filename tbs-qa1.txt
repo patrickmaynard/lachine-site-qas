@@ -1,0 +1,17 @@
+Q1. I did an analysis of publicly available XML data describing the Federal Contaminated Sites Inventory. Based on this analysis, I have identified site 13.2, site 13.3 and site 13.8 as being near the densest populations of any active, high-priority federal cleanup sites, based on population counts within a 1-kilometer radius. Can you confirm this finding?
+
+-     A1. The Directory of Federal Real Property record for Lachine Canal National Historic Site (Property Number 06959), owned by the Parks Canada Agency, indicates that there are a total of 88 federal contaminated sites located on the property.  In order to confirm your findings related to these 88 sites, we have included the attached report.  The report concludes that 13.2, 13.3 and 13.8 are the top three active, high-priority federal contaminated sites with the highest population density within a 1 kilometer radius.
+
+-     Please note that the population counts in the FCSI are based on the 2011 Census Dissemination Areas of Canada. 
+
+Q2.  Lest I oversell the importance of FCSI sites to my readers, could you describe what types of sites/cleanups are included -- and, just as importantly, omitted -- within the FCSI database? (For example, describing whether the FCSI database includes privately owned, non-federal cleanup sites, whether this database covers run-of-the-mill municipal sewage spills, etc.,.)
+
+-     A2. The Federal Contaminated Sites Inventory includes information on all known federal contaminated sites under the custodianship of departments, agencies and consolidated Crown corporations as well as those that are being or have been investigated to determine whether they have contamination arising from past use that could pose a risk to human health or the environment. The inventory also includes non-federal contaminated sites for which the Government of Canada has accepted some or all financial responsibility. It does not include sites where contamination has been caused by, and which are under the control of, enterprise Crown corporations, private individuals, firms or other levels of government.
+
+-     For more information, please visit the FCSI web page: http://www.tbs-sct.gc.ca/fcsi-rscf/home-accueil-eng.aspx
+
+Q3.  It looks like the site with federal site identification number 55380018 is present in the public XML of the FCSI, but not present in the public-facing online database. Could you describe a likely reason for that?
+
+-    A3. The FCSI XML export in Open Data has a system bug that is erroneously including consolidated and archived (deleted) sites in its output.  Our technical team is updating the Open Data XML file so that it only includes valid records. For context, a reporting organization may archive a site if it was created in error and consolidate two or more sites into a single site for administrative purposes (i.e., small neighboring sites that have the same characteristics may be more easily managed as a single larger site).
+
+-     The investigation into site 55380018 concludes that it was consolidated into site 06959001 on December 17, 2014. 
