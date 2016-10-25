@@ -15,3 +15,19 @@ Q3.  It looks like the site with federal site identification number 55380018 is 
 -    A3. The FCSI XML export in Open Data has a system bug that is erroneously including consolidated and archived (deleted) sites in its output.  Our technical team is updating the Open Data XML file so that it only includes valid records. For context, a reporting organization may archive a site if it was created in error and consolidate two or more sites into a single site for administrative purposes (i.e., small neighboring sites that have the same characteristics may be more easily managed as a single larger site).
 
 -     The investigation into site 55380018 concludes that it was consolidated into site 06959001 on December 17, 2014. 
+
+
+Have a good day,
+
+ 
+
+Kelly
+
+ 
+
+ 
+
+Kelly James
+
+Media Relations
+Treasury Board of Canada Secretariat / Government of Canada
